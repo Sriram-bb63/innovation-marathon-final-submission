@@ -1,0 +1,37 @@
+# TODO
+
+- [x] ~~404 page~~
+- [x] ~~access denied page~~
+- [x] ~~Confirmation mail~~
+- [x] ~~Edit button~~
+- [x] ~~Delete button~~
+- [x] ~~About page html~~
+- [x] ~~Contact page html~~
+- [x] ~~Split routes for ocr~~
+- [ ] Better session management
+- [x] ~~See registration count~~
+- [x] ~~Limit registration~~
+- [x] ~~Set registration limit for an event~~
+- [x] ~~Remove time, keep only start date and end date~~
+- [ ] Add api mode
+- [x] ~~Block registration based on date~~
+- [x] ~~Block registration inside /register route~~
+- [ ] Pause/Close registration
+- [ ] Make email a micro process
+- [x] ~~Show registered and limit in view event~~
+- [x] ~~Make some fields as required~~
+- [ ] Web view
+- [ ] Beautify OCR autofill in edit
+- [x] ~~Filter~~
+- [ ] Pagination
+- [ ] Fix exports
+- [ ] Extract coordinators
+- [ ] Prof only event
+- [ ] Student register restriction to year
+- [x] ~~Organizer~~
+- [x] ~~Venues drop down (Store default venues)~~
+- [ ] Schools and dept default values (Store default schools)
+- [ ] End date
+- [ ] Beautify filter
+- [ ] Desktop view
+- [ ] Search
